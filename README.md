@@ -1,6 +1,6 @@
 ### SimplePickup redesigned using Rack for deployment to Heroku
 
-To run do the following
+To run do the following:
 
 1. Download the file and unzip it. 
 2. Navigate to the folder SimplePickupRackApp in your terminal/command line.
